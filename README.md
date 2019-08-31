@@ -36,7 +36,7 @@ Play Rhytm game! gues the pattern!
 
 ## Screenshots
 <div align="center">
-    <img width="250" src="src/asset/Main.png">    
+    <img width="250" src="src/asset/main.png">    
     <img width="250" src="src/asset/sign.png">
   </div>
   <br/>
